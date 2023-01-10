@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+🇬🇧<br />
+Training day & night - Neural Networks & Volleyball
+
+
+🇵🇱<br />
+Sieć neuronowa czy piłka siatkowa;<br />
+Zawodowo trenuję.<br />
+#Kochanowski
 
 <!--
 **mareksubocz/mareksubocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
