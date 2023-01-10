@@ -1,13 +1,13 @@
 <!-- ### Hi there 👋 -->
 
-🇬🇧<br />
-Neural Networks, Volleyball <br />
+🇬🇧 \
+Neural Networks, Volleyball \
 Either way, I train it all.
 
 
-🇵🇱<br />
-Sieć neuronowa czy piłka siatkowa;<br />
-zawodowo trenuję.<br />
+🇵🇱 \
+Sieć neuronowa czy piłka siatkowa; \
+zawodowo trenuję. \
 #Kochanowski
 
 <!--
