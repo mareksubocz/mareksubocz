@@ -2,7 +2,7 @@
 
 🇬🇧<br />
 Neural Networks, Volleyball <br />
-All the same, I train it all.
+Either way, I train it all.
 
 
 🇵🇱<br />
