@@ -6,7 +6,7 @@ Training day & night - Neural Networks & Volleyball
 
 🇵🇱<br />
 Sieć neuronowa czy piłka siatkowa;<br />
-Zawodowo trenuję.<br />
+zawodowo trenuję.<br />
 #Kochanowski
 
 <!--
