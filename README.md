@@ -1,4 +1,4 @@
-# Hi there 👋
+<!-- ### Hi there 👋 -->
 
 🇬🇧<br />
 Training day & night - Neural Networks & Volleyball
