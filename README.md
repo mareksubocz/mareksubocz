@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 🇬🇧<br />
-Training day & night - Neural Networks & Volleyball
+Neural Networks, Volleyball <br />
+Anyway, I train it all.
 
 
 🇵🇱<br />
