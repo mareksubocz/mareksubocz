@@ -1,11 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-🇬🇧 \
-Neural Networks, Volleyball \
-Either way, I train it all.
-
-
-🇵🇱 \
 Sieć neuronowa czy piłka siatkowa; \
 zawodowo trenuję. \
 #Kochanowski
